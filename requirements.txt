@@ -1,0 +1,10 @@
+# Mínimos que necesita el código (usa HistGradientBoosting con categorías nativas y groupby.apply(include_groups=...)).
+# Versiones con las que se ejecutó el proyecto: Python 3.14.4, pandas 3.0.2, numpy 2.4.4, scipy 1.17.1,
+# scikit-learn 1.8.0, matplotlib 3.10.8, ipykernel 7.1.0, nbformat 5.10.4, nbclient 0.10.4.
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+ipykernel>=6.29
+jupyterlab>=4.0
